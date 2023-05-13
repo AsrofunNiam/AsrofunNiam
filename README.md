@@ -1,5 +1,5 @@
 👋 Hi, I’m @AsrofunNiam
-🔭 I’m working as Software Engineer at Foxlogger
+🔭 I’m working as Software Engineer at Metiska Farma
 👨‍💻 Interest in FrontEnd Engineering
 <!---
 AsrofunNiam/AsrofunNiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
