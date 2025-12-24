@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asrofun Ni'am</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend developer & data engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsrofunNiam&label=Asrofun&color=0e75b6&style=flat" alt="AsrofunNiam" /> </p>
 
-- 🔭 I’m working on **PT. Vneu Teknologi Indonesia**
+- 🔭 I’m working on **PT. Pintu Kemana Saja**
 
 - 👨‍💻 Interest in Backend Developer
 
